@@ -4,9 +4,9 @@ IA Multimodal que aprende , almacena y optimiza la memoria para recordar a largo
 
 ![EndLessMemory Logo](prototipo0.jpg)
 
-Sistema avanzado de IA multimodal que procesa entradas de voz, genera respuestas contextuales y aprende continuamente de cada interacción. Combina modelos de lenguaje grandes (LLM) con otros multiples modelos ASR,VLM, multiples LLM, TTS, etc.. con recuperación aumentada de generación (RAG) y fine-tuning mediante LoRA para crear una experiencia conversacional enriquecida y ética.
+Sistema avanzado de IA multimodal que procesa entradas de voz, genera respuestas contextuales y aprende continuamente de cada interacción. Combina modelos de lenguaje grandes (LLM) con otros multiples modelos ASR,VLM, multiples LLMs más pequeños, TTS, etc.. con recuperación aumentada de generación (RAG) y fine-tuning mediante LoRA para crear una experiencia conversacional enriquecida y ética.
 
-##  Etapa 1 Características Principales
+##  Etapa 1: Características Principales
 
 - **Procesamiento multimodal**: Entrada de voz y salida de texto y voz
 - **Memoria infinita**: Sistema RAG y LoRA para aprender de cada interacción
@@ -33,7 +33,7 @@ El sistema sigue una arquitectura modular con los siguientes componentes:
 
 - **Capa de Salida**: TTS para generación de voz
 
-##  Etapa 2 Roadmap Futuro
+##  Etapa 2: Roadmap Futuro
 
 Implementación de APIs para integración con otros sistemas
 
