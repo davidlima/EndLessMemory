@@ -1,10 +1,12 @@
 # EndLessMemory
+
 <p align="center">
   <img src="prototipo0.jpg" alt="Diagrama del Sistema" width="450"/>
 </p>
+
 Es una IA Multimodal que busca completar lo que le falta a cualquier asistente actual. La razón de ser de **EndLessMemory** es empatizar más a nivel personal con cada persona. Es una IA que puede acordarse de **TODAS** las conversaciones de forma personalizada, ética, local y **SEGURA**.
 
-Con cada interacción **EndLessMemory** no solo busca acordarse de lo hablado, si no de empatizar, y adaptarse a las necesidades que cada uno de nosotros tenemos de forma individualizada por natruraleza.
+Con cada interacción **EndLessMemory** no solo busca acordarse de lo hablado, si no de empatizar, interactuando activamente y adaptandose a las necesidades que cada uno de nosotros tenemos de forma individualizada por natruraleza.
 
 Si el usuario final desease que su **EndLessMemory** permaneciese vivo a título postumo. Podría clonar la voz, imágen, ideas, historias y acercarse a la esencia de todo aquello que se compartiera. 
 
