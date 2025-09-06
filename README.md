@@ -1,4 +1,7 @@
 # EndLessMemory
+<p align="center">
+  <img src="prototipo0.jpg" alt="Diagrama del Sistema" width="450"/>
+</p>
 Es una IA Multimodal que busca completar lo que le falta a cualquier asistente actual. La razón de ser de **EndLessMemory** es empatizar más a nivel personal con cada persona. Es una IA que puede acordarse de **TODAS** las conversaciones de forma personalizada, ética, local y **SEGURA**.
 
 Con cada interacción **EndLessMemory** no solo busca acordarse de lo hablado, si no de empatizar, y adaptarse a las necesidades que cada uno de nosotros tenemos de forma individualizada por natruraleza.
@@ -13,9 +16,7 @@ Si el usuario final desease que su **EndLessMemory** permaneciese vivo a título
 **EndLessMemory** nos proporciona poder seguir conversaciones e interactuar con situaciones actuales, historias comentadas en el pasado. O simplemente contar ideas de necesidades personales, de proyectos de trabajo, etc.. **EndLessMemory**  es como una **caja negra** de tus propias necesidades y conocimientos adquiridos a lo **largo del tiempo**. 
 
 # Sistema de IA Multimodal
-<p align="center">
-  <img src="prototipo0.jpg" alt="Diagrama del Sistema" width="450"/>
-</p>
+
 
 Es un Sistema avanzado de IA multimodal que procesa entradas de voz, y video a la vez que genera respuestas contextuales aprendiendo continuamente de cada interacción. Combina modelos de lenguaje grandes (LLM) con otros multiples modelos ASR,VLM, multiples LLMs más pequeños, TTS, etc.. con recuperación aumentada de generación (RAG) y fine-tuning mediante LoRA para crear una experiencia conversacional enriquecida y ética.
 
