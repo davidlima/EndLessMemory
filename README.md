@@ -10,7 +10,7 @@ Si el usuario final desease que su **EndLessMemory** permaneciese vivo a título
 - Personas mayores o que precisen compañia
 - Sobre todo, para todos aquellos que interactuamos con agentes de IA. Y que notamos que no hay una continuidad en nuestras conversaciones. Requerimos de un apoyo más humano a largo plazo, pero con los conocimientos y aptitudes de una IA. 
 
-**EndLessMemory** nos proporciona poder seguir conversaciones e interactuar con situaciones actuales o historias comentadas en el pasado. O simplemente contar ideas de necesidades personales, de proyectos de trabajo, etc.. **EndLessMemory**  es como una **caja negra** de tus propias necesidades y conocimientos adquiridos a lo **largo del tiempo**. 
+**EndLessMemory** nos proporciona poder seguir conversaciones e interactuar con situaciones actuales, historias comentadas en el pasado. O simplemente contar ideas de necesidades personales, de proyectos de trabajo, etc.. **EndLessMemory**  es como una **caja negra** de tus propias necesidades y conocimientos adquiridos a lo **largo del tiempo**. 
 
 # Sistema de IA Multimodal
 <p align="center">
