@@ -1,10 +1,23 @@
 # EndLessMemory
-IA Multimodal que aprende , almacena y optimiza la memoria para recordar a largo plazo con el objetivo de empatizar cada vez más y más con la persona con la que interactua
-# EndLessMemory - Sistema de IA Multimodal
+Es una IA Multimodal que busca completar lo que le falta a cualquier asistente actual. La razón de ser de **EndLessMemory** es empatizar más a nivel personal con cada persona. Es una IA que puede acordarse de **TODAS** las conversaciones de forma personalizada, ética, local y **SEGURA**.
 
-![EndLessMemory Logo](prototipo0.jpg)
+Con cada interacción **EndLessMemory** no solo busca acordarse de lo hablado, si no de empatizar, y adaptarse a las necesidades que cada uno de nosotros tenemos de forma individualizada por natruraleza.
 
-Sistema avanzado de IA multimodal que procesa entradas de voz, genera respuestas contextuales y aprende continuamente de cada interacción. Combina modelos de lenguaje grandes (LLM) con otros multiples modelos ASR,VLM, multiples LLMs más pequeños, TTS, etc.. con recuperación aumentada de generación (RAG) y fine-tuning mediante LoRA para crear una experiencia conversacional enriquecida y ética.
+Si el usuario final desease que su **EndLessMemory** permaneciese vivo a título postumo. Podría clonar la voz, imágen, ideas, historias y acercarse a la esencia de todo aquello que se compartiera. 
+
+**EndLessMemory** entre otras facetas, está pensado para personas con Alzheimer, personas que precisen compañia. Y sobre todo, para todos aquellos que interactuamos con agentes de IA. Y que notamos que no hay una continuidad en nuestras conversaciones. 
+
+Este camino nos proporciona poder seguir conversaciones e interactuar con situaciones actuales o historias comentadas en el pasado. O simplemente contar ideas de necesidades, de proyectos de trabajo, etc.. **EndLessMemory**  es como una caja negra de tus propias necesidades y conocimientos adquiridos. 
+
+# Sistema de IA Multimodal
+<p align="center">
+  <img src="prototipo0.jpg" alt="Diagrama del Sistema" width="450"/>
+</p>
+
+Es un Sistema avanzado de IA multimodal que procesa entradas de voz, y video y genera respuestas contextuales a la vez que aprende continuamente de cada interacción. Combina modelos de lenguaje grandes (LLM) con otros multiples modelos ASR,VLM, multiples LLMs más pequeños, TTS, etc.. con recuperación aumentada de generación (RAG) y fine-tuning mediante LoRA para crear una experiencia conversacional enriquecida y ética.
+
+El sistema está pensado para **evolucionar** con  aquitecturas o tecnologías futuras. Para ello, hay que pensar que cada persona habla al día de 16.000 a 20.000 palabras y escucha el doble de ellas cada día. 
+En una vida de unos 80 años, estaríamos hablando que si almacenásemos todas las palabras habladas y escuchadas estariamos hablando (sin contar compresion y metadatos necesarios) que haría falta unos 9Gb de información vital. Independientemente al modelo de **EndLessMemory** actual o futuro. Por lo que teniendo en cuenta que la IA ha venido para quedarse. Es mejor unir recursos para encaminarnos hacia un camino más fácil y lo más humanamente posible.
 
 ##  Etapa 1: Características Principales
 
