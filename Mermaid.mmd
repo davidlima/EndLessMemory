@@ -1,0 +1,42 @@
+---
+config:
+  layout: fixed
+---
+flowchart TD
+ subgraph Fase1["Fase 1: Proceso Inicial"]
+        T["Texto"]
+        ASR["ASR"]
+        LLMA["LLM-A PRINCIPAL"]
+  end
+ subgraph Fase2["Fase 2: Consulta Contextualizada"]
+        LLMB["LLM-B"]
+        RAG[("Embedding RAG")]
+  end
+ subgraph Fase3["Fase 3: Integración+Fine-tuning"]
+        LLMC["LLM-C + LoRA"]
+        O["Orquestador<br>Prompt Ético/Normas"]
+  end
+    V["Entrada de Voz"] --> ASR
+    ASR --> T
+    T --> LLMA & LLMB
+    RAG <-.-> LLMB & LLMC
+    LLMB --> LLMA
+    O --> LLMC & LLMB & LLMA
+    LLMC --> LLMB
+    LLMA --> RAG & TTS["TTS<br>"]
+    TTS --> n1["Salida de Voz"]
+    n1@{ shape: rect}
+     ASR:::input
+     LLMA:::llm
+     LLMB:::llm
+     RAG:::rag
+     LLMC:::llm
+     O:::input
+     V:::input
+     TTS:::output
+     n1:::output
+    classDef phase fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef rag fill:#fff3e0,stroke:#ff6f00,stroke-width:2px
+    classDef llm fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    classDef input fill:#fce4ec,stroke:#c2185b,stroke-width:2px
+    classDef output fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
