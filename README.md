@@ -4,16 +4,16 @@
   <img src="prototipo0.jpg" alt="Diagrama del Sistema" width="450"/>
 </p>
 
-Es una IA Multimodal que busca completar lo que le falta a cualquier asistente actual. La razón de ser de **EndLessMemory** es empatizar más a nivel personal con cada persona. Es una IA que puede acordarse de **TODAS** las conversaciones de forma personalizada, ética, local y **SEGURA**.
+Es una IA Multimodal que busca completar lo que le falta a cualquier asistente actual. La razón de ser de **EndLessMemory** es empatizar más a nivel personal con cada persona. Es una IA que puede acordarse de **TODAS las conversaciones de forma personalizada**, ética, local y **SEGURA**.
 
-Con cada interacción **EndLessMemory** no solo busca acordarse de lo hablado, si no de empatizar, interactuando activamente y adaptandose a las necesidades que cada uno de nosotros tenemos de forma individualizada por naturaleza.
+Con cada interacción **EndLessMemory** no solo busca acordarse de lo hablado, si no de empatizar, interactuando activamente y adaptándose a las necesidades que cada uno de nosotros tenemos de forma individualizada por naturaleza.
 
-Si el usuario final desease que su **EndLessMemory** permaneciese vivo a título postumo. Podría clonar la voz, imágen, ideas, historias y acercarse a la **esencia** de todo aquello que se compartiera. 
+Si el usuario final desease que su **EndLessMemory** permaneciera vivo a título póstumo. Podría clonar la voz, imágen, ideas, historias y acercarse a la **esencia** de todo aquello que se compartiera. 
 
 **EndLessMemory** entre **otras facetas** está especialmente pensado para:
 - Personas con Alzheimer que quieran conservar su **esencia**
-- Personas mayores o que precisen compañia
-- Sobre todo, para todos aquellos que interactuamos con agentes de IA. Y que a pesar del gran potencial de las IAs notamos que no hay una empatía en nuestras conversaciones, **no se acuerdan de nuestras historias pasadas preguntando como lo haría un humano**. Requerimos de una mayor conexión a largo plazo, pero aprovechando los conocimientos y aptitudes de una IA. 
+- Personas mayores o que precisen compañía
+- Sobre todo, para todos aquellos que interactuamos con agentes de IA. Y que a pesar del gran potencial de las IAs notamos que no hay empatía en nuestras conversaciones, **no se acuerdan de nuestras historias pasadas preguntando como lo haría un humano**. Requerimos de una mayor conexión a largo plazo, pero aprovechando los conocimientos y aptitudes de una IA. 
 
 **EndLessMemory** nos proporciona poder seguir conversaciones e interactuar con situaciones actuales, historias comentadas en el pasado. O simplemente contar ideas de necesidades personales, de proyectos de trabajo, etc.. **EndLessMemory**  es como una **caja negra** de tus propias necesidades y conocimientos adquiridos a lo **largo del tiempo**. 
 
