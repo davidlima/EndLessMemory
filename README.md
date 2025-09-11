@@ -16,7 +16,7 @@ Si el usuario final desease que su **EndLessMemory** permaneciera vivo a título
 - Detección de **situaciones potencialmente peligrosas** y que una IA mediante explicaciones habladas pueda entender como detección de incendio, caídas  o detección de necesidad de asistencia a personas, peligros inminentes, robos, etc..
 - Sobre todo, para todos aquellos que interactuamos con agentes de IA. Y que a pesar del gran potencial de las IAs notamos que no hay empatía en nuestras conversaciones, **no se acuerdan de nuestras historias pasadas preguntando como lo haría un humano**. Requerimos de una mayor conexión a largo plazo, pero aprovechando los conocimientos y aptitudes de una IA. 
 
-**EndLessMemory** nos proporciona poder seguir conversaciones e interactuar con situaciones actuales, historias comentadas en el pasado. O simplemente contar ideas de necesidades personales, de proyectos de trabajo, etc.. **EndLessMemory**  es como una **caja negra** de tus propias necesidades y conocimientos adquiridos a lo **largo del tiempo**. 
+**EndLessMemory** nos proporciona poder seguir conversaciones e interactuar con situaciones actuales, historias comentadas en el pasado. O simplemente para contar ideas de necesidades personales, de proyectos de trabajo, etc.. **EndLessMemory**  es como una **caja negra** de tus propias necesidades y conocimientos adquiridos a lo **largo del tiempo**. 
 
 # Sistema de IA Multimodal
 
